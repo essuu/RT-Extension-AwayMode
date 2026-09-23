@@ -1,4 +1,7 @@
-use v5.36;
+use v5.20;
+use warnings;
+use feature 'signatures';
+no warnings 'experimental::signatures';
 
 package RT::Extension::AwayMode;
 
