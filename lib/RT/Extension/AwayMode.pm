@@ -1,9 +1,9 @@
+package RT::Extension::AwayMode;
+
 use v5.20;
 use warnings;
 use feature 'signatures';
 no warnings 'experimental::signatures';
-
-package RT::Extension::AwayMode;
 
 our $VERSION = '0.04';
 
